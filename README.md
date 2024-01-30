@@ -3,7 +3,7 @@
 <p align="center">
     <img width="400" src="aai.png" alt="angular assosiation of iran logo">
 </p>
-<h1  align="center">sajjad maneshi (Angular iran)</h1>
+<h1  align="center">Sajjad Maneshi (Angular Iran)</h1>
 
 <h3 align="center">
   this is sajjad! a senior front-end developer and devOps engineer, also known as Angular iran
